@@ -30,7 +30,7 @@ Integrate your [Laravel](https://laravel.com) application with [Aramex](https://
 
 Run the following command to install the latest applicable version of the package:
 
-    composer require omar-ehab/laravel-aramex
+    composer require ahmed-sh38an/laravel-aramex
 
 You can publish the config-file with:
 
