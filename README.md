@@ -34,11 +34,11 @@ Run the following command to install the latest applicable version of the packag
 
 You can publish the config-file with:
 
-    php artisan vendor:publish --provider="omar-ehab\Aramex\AramexServiceProvider" --tag="config"
+    php artisan vendor:publish --provider="OmarEhab\Aramex\AramexServiceProvider" --tag="config"
 
 You can publish the resources files with:
 
-    php artisan vendor:publish --provider="omar-ehab\Aramex\AramexServiceProvider" --tag="lang"
+    php artisan vendor:publish --provider="OmarEhab\Aramex\AramexServiceProvider" --tag="lang"
 
 ### Environment Variables
 After installation, you can add the following variables to your .env file to modify the default values of Aramex API URLs:
